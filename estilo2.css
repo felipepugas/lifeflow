@@ -161,9 +161,9 @@ background: #FFFFFF;
 #textos4{
     position: absolute;
 width: 637px;
-height: 400px;
+height: 200px;
 left: calc(50% - 437px/2 - 243.5px);
-top: 150%;
+top: 145%;
 
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
@@ -180,8 +180,8 @@ mix-blend-mode: normal;
 }
 #imgmulher{
     position: absolute;
-width: 399px;
-height: 383px;
+width: 299px;
+height: 283px;
 left: 50%;
 top: 130%;
 padding: 10%;
