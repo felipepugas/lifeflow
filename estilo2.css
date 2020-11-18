@@ -162,8 +162,8 @@ background: #FFFFFF;
     position: absolute;
 width: 637px;
 height: 400px;
-left: calc(50% - 637px/2 - 243.5px);
-top: 170%;
+left: calc(50% - 437px/2 - 243.5px);
+top: 150%;
 
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
@@ -183,7 +183,7 @@ mix-blend-mode: normal;
 width: 399px;
 height: 383px;
 left: 50%;
-top: 150%;
+top: 130%;
 padding: 10%;
 
 background: url(a04.png);
