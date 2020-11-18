@@ -29,7 +29,7 @@ mix-blend-mode: normal;
     position: absolute;
 width: 271px;
 height: 114px;
-left: 200px;
+left: 290px;
 top: 5%;
 
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -68,7 +68,7 @@ color: #FFFFFF;
     position: absolute;
 width: 380px;
 height: 380px;
-left: 15%;
+left: 250px;
 top: 234px;
 
 background: url(a01.png);
@@ -164,7 +164,7 @@ background: #FFFFFF;
     position: absolute;
 width: 637px;
 height: 400px;
-left: calc(50% - 637px/2 - 243.5px);
+left: calc(50% - 637px/2 - 443.5px);
 top: 150%;
 
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
