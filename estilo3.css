@@ -29,7 +29,7 @@ mix-blend-mode: normal;
     position: absolute;
 width: 271px;
 height: 114px;
-left: 350px;
+left: 200px;
 top: 5%;
 
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -68,7 +68,7 @@ color: #FFFFFF;
     position: absolute;
 width: 380px;
 height: 380px;
-left: 15%;
+left: 100px;
 top: 234px;
 
 background: url(a01.png);
@@ -137,7 +137,7 @@ mix-blend-mode: normal;
 width: 565px;
 height: 388px;
 left: 340px;
-top: -20%;
+top: 600px;
 }
 #formulario{
     position: absolute;
