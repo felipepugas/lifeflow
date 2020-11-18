@@ -2,13 +2,49 @@ body {
     background-color: rgba(25, 189, 170, 1);
     margin: 0;
 }
-#imagemlogo{
+#life {
     position: absolute;
-width: ;
-height: ;
-left: 160px;
-top: 100px;
+width: 271px;
+height: 114px;
+left: 10%;
+top: 5%;
 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 66px;
+line-height: 74px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+    
+}
+#flow {
+    position: absolute;
+width: 271px;
+height: 114px;
+left: 280px;
+top: 5%;
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 66px;
+line-height: 74px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
 }
 #vivabem {
     position: absolute;
@@ -17,7 +53,7 @@ height: 85px;
 left: calc(50% - 321px/2 + 441.5px);
 top: 82px;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 30px;
@@ -32,7 +68,7 @@ color: #FFFFFF;
     position: absolute;
 width: 380px;
 height: 380px;
-left: 100px;
+left: 15%;
 top: 234px;
 
 background: url(a01.png);
@@ -44,7 +80,7 @@ background: url(a01.png);
     left: calc(50% - 603px/2 + 317.5px);
     top: 16%;
     
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
     font-style: normal;
     font-weight: bold;
     font-size: 50;
@@ -63,7 +99,7 @@ height: 191px;
 left: 741px;
 top: 5%;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
@@ -80,9 +116,9 @@ mix-blend-mode: normal;
 width: 270.15px;
 height: 241.08px;
 left: 10%;
-top: 751px;
+top: 851px;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 21;
@@ -101,36 +137,53 @@ mix-blend-mode: normal;
 width: 565px;
 height: 388px;
 left: 340px;
-top: -35px;
+top: -20%;
 }
 #formulario{
     position: absolute;
 width: 602.84px;
 height: 354.21px;
-left: 541px;
-top: 50%;
+left: 741px;
+top: 100%;
 
 }
-#email{
-    
-}
+
 #barrinha{
     position: absolute;
 width: 471px;
 height: 5px;
 left: 40%;
-top: 120%;
+top: 140%;
 
 
 background: #FFFFFF;
 }
+#textos4{
+    position: absolute;
+width: 637px;
+height: 400px;
+left: calc(50% - 637px/2 - 243.5px);
+top: 170%;
 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 89px;
+/* or 127% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+}
 #imgmulher{
     position: absolute;
-width: ;
-height: ;
-left: 250px;
-top: 130%;
+width: 399px;
+height: 383px;
+left: 50%;
+top: 150%;
 padding: 10%;
 
 background: url(a04.png);

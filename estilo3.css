@@ -9,7 +9,7 @@ height: 114px;
 left: 10%;
 top: 5%;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 66px;
@@ -29,10 +29,10 @@ mix-blend-mode: normal;
     position: absolute;
 width: 271px;
 height: 114px;
-left: 450px;
+left: 200px;
 top: 5%;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 66px;
@@ -53,7 +53,7 @@ height: 85px;
 left: calc(50% - 321px/2 + 441.5px);
 top: 82px;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 30px;
@@ -68,7 +68,7 @@ color: #FFFFFF;
     position: absolute;
 width: 380px;
 height: 380px;
-left: 15%;
+left: 100px;
 top: 234px;
 
 background: url(a01.png);
@@ -80,7 +80,7 @@ background: url(a01.png);
     left: calc(50% - 603px/2 + 317.5px);
     top: 16%;
     
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
     font-style: normal;
     font-weight: bold;
     font-size: 50;
@@ -99,7 +99,7 @@ height: 191px;
 left: 741px;
 top: 5%;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
@@ -118,7 +118,7 @@ height: 241.08px;
 left: 10%;
 top: 751px;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
 font-style: normal;
 font-weight: normal;
 font-size: 21;
@@ -137,7 +137,7 @@ mix-blend-mode: normal;
 width: 565px;
 height: 388px;
 left: 340px;
-top: -20%;
+top: 600px;
 }
 #formulario{
     position: absolute;
