@@ -2,49 +2,13 @@ body {
     background-color: rgba(25, 189, 170, 1);
     margin: 0;
 }
-#life {
+#imagemlogo{
     position: absolute;
-width: 271px;
-height: 114px;
-left: 10%;
-top: 5%;
+width: ;
+height: ;
+left: 160px;
+top: 100px;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 66px;
-line-height: 74px;
-display: flex;
-align-items: center;
-text-align: center;
-letter-spacing: -0.015em;
-
-color: #000000;
-
-mix-blend-mode: normal;
-
-    
-}
-#flow {
-    position: absolute;
-width: 271px;
-height: 114px;
-left: 290px;
-top: 5%;
-
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 66px;
-line-height: 74px;
-display: flex;
-align-items: center;
-text-align: center;
-letter-spacing: -0.015em;
-
-color: #FFFFFF;
-
-mix-blend-mode: normal;
 }
 #vivabem {
     position: absolute;
