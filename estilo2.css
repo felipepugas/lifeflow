@@ -124,31 +124,12 @@ top: 120%;
 
 background: #FFFFFF;
 }
-#textos4{
-    position: absolute;
-width: 637px;
-height: 400px;
-left: calc(50% - 437px/2 - 243.5px);
-top: 150%;
 
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-font-style: normal;
-font-weight: bold;
-font-size: 40px;
-line-height: 89px;
-/* or 127% */
-
-text-align: center;
-
-color: #FFFFFF;
-
-mix-blend-mode: normal;
-}
 #imgmulher{
     position: absolute;
-width: 399px;
-height: 383px;
-left: 50%;
+width: ;
+height: ;
+left: 300px;
 top: 130%;
 padding: 10%;
 
